@@ -9,11 +9,6 @@ This survey paper, titled **"Accelerated Generation Techniques for Large Languag
 
 ## 📖 Table of Content
 
-## [Speculative Decoding](Speculative-Decoding)
-## [Early-Exiting Techniques](Early-Exiting)
-## [Non-Autoregressive](Non-Autoregressive)
-
-
 ### 💥 Speculative Decoding
 
 - Blockwise parallel decoding for deep autoregressive models, NIPS, 2018. [Paper](https://arxiv.org/abs/1811.03115)
