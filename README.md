@@ -1,11 +1,10 @@
 # Accelerated Generation Techniques for LLMs
 
-
-
 ## 📚 What is This Survey About?
 
-This survey paper, titled **"Accelerated Generation Techniques for Large Language Models (LLMs)"**, focuses on the cutting-edge algorithmic advancements developed to enhance the efficiency and speed of generating responses from LLMs. As LLMs are increasingly used in various applications such as chatbots, content creation, and language translation, the computational demands for real-time response generation become a significant challenge. Our survey explores a range of novel algorithms and methodologies designed to optimize the generation process. These include **Speculative decoding** techniques, **Early-exiting**  strategies, and **Non-autoregressive** mechanisms. By consolidating the latest research and breakthroughs in these algorithmic approaches, this paper aims to provide valuable insights and practical guidance for researchers and practitioners working to implement faster and more efficient LLMs in their projects.
+This survey paper, titled **"Accelerated Generation Techniques for Large Language Models (LLMs)"**, focuses on the cutting-edge algorithmic advancements developed to enhance the efficiency and speed of generating responses from LLMs. As LLMs are increasingly used in various applications such as chatbots, content creation, and language translation, the computational demands for real-time response generation have become a significant challenge. Our survey explores a range of novel algorithms and methodologies designed to optimize the generation process. These include **Speculative decoding** techniques, **Early-exiting**  strategies, and **Non-autoregressive** mechanisms. By consolidating the latest research and breakthroughs in these algorithmic approaches, this paper aims to provide valuable insights and practical guidance for researchers and practitioners working to implement faster and more efficient LLMs in their projects.
 
+You can find our paper: [here](https://arxiv.org/abs/2405.13019)
 
 ## 📖 Table of Content
 
